@@ -1,4 +1,4 @@
-node index.js --action list https://prnt.sc/PDOiNUj0T30n
+node index.js --action list https://prnt.sc/WFx_XkgEdmW5
 
 node index.js --action get --id https://prnt.sc/TjLzsbaylJ0O
 
